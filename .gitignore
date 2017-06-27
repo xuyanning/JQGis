@@ -1,0 +1,8 @@
+*.cache
+GISUtilities/obj/
+packages/
+RailMis_lib_GisModelInfo/bin/
+RailMis_lib_GisModelInfo/obj/Debug/ModelInfo.csproj.FileListAbsolute.txt
+RailMis_lib_GisModelInfo/obj/
+RaiMis_GIS/bin/
+RaiMis_GIS/obj/
